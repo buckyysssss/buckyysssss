@@ -9,10 +9,3 @@ A tech enthusiast
 
 ⚡ Fun fact "I burst out in serious conversations"
 
-
-💻 Tech Stack:
-
-
-html css javascript 
-Python
-
